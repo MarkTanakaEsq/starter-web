@@ -1,7 +1,8 @@
 # Starter Web Project
 
 Thisis a simple website project for training
-This is a line for rebasing example
+This is a line for rebasing example from my
+feature branch too.
 
 ## Introduction
 
