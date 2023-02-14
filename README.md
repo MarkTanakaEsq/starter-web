@@ -1,6 +1,7 @@
 # Starter Web Project
 
 Thisis a simple website project for training
+This is a line for rebasing example
 
 ## Introduction
 
